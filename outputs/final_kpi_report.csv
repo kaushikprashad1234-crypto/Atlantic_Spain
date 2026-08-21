@@ -1,0 +1,13 @@
+KPI,Value
+Total Dataset Rows,27800.0
+Unique Songs,545.0
+Unique Artists,306.0
+Number of Days,555.0
+Average Days on Playlist,56.42367066895369
+Median Days on Playlist,15.0
+Maximum Days on Playlist,551.0
+Average Entry-to-Peak Time,9.514579759862778
+Average Peak Position,21.919382504288166
+Average Churn Rate,4.2018018018018015
+Average Retention Stability,0.9646477000605359
+Single/Album Longevity Ratio,1.3435961812280346
